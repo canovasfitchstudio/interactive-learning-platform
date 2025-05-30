@@ -1,6 +1,7 @@
+
 {
-  "name": "Interactive Learning Platform",
-  "description": "An interactive platform offering micro-courses on first aid and interview preparation, a habit formation visualizer, an AI-powered interview simulator, and a conceptual video generation feature.",
+  "name": "CanovitasTraining Platform",
+  "description": "CanovitasTraining: An interactive platform offering micro-courses on first aid and interview preparation, a habit formation visualizer, an AI-powered interview simulator, and a conceptual video generation feature.",
   "requestFramePermissions": [],
   "prompt": ""
 }

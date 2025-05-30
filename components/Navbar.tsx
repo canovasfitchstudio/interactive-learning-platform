@@ -17,7 +17,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center">
             <NavLink to={Page.Home} className="flex-shrink-0 flex items-center text-white">
               <HomeIcon className="h-8 w-8 mr-2 text-primary-light" />
-              <span className="font-bold text-xl">LearnSphere</span>
+              <span className="font-bold text-xl">CanovitasTraining</span>
             </NavLink>
           </div>
           <div className="hidden md:block">
